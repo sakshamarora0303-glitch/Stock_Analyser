@@ -48,12 +48,5 @@ A web dashboard displaying historical crossover events, their estimated reliabil
 - Compare Logistic Regression with other interpretable models.
 - Evaluate performance across multiple stocks and market conditions.
 
-## Team
-- **Saksham Arora** — 25BCE0487
-- **Hrishikesh Khanna** — 25BCE2500
-- **Project Guide:** Raghul J, Assistant Professor, SCOPE
-
-**Course:** BACSE291 — Innovative Design Project, Fall 2026
-
 ## Disclaimer
 This project is an academic prototype for research and decision support, not investment advice. All scoring methods and performance claims must be validated experimentally.
