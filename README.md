@@ -22,12 +22,14 @@ For a probability-based implementation:
 The project also explores a weighted composite score using normalized features and weights that may vary according to market regime. The final implementation will define how this score relates to the Logistic Regression output.
 
 ## Technology Stack
+
 - **Frontend:** React
-- **Backend:** Python, FastAPI
-- **Machine Learning:** scikit-learn
-- **Data Processing:** Pandas, NumPy
+- **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL
-- **Visualization:** Interactive charts for stock prices, crossover events, and reliability scores
+- **Machine Learning:** Python, scikit-learn
+- **Data Processing:** Pandas, NumPy
+- **Charts:** Recharts or TradingView Lightweight Charts
+- **API Communication:** REST APIs
 
 ## Evaluation
 The proposed system will be evaluated using:
